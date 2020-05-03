@@ -1,17 +1,17 @@
 {
-  "datetime": 1588402639,
+  "datetime": 1588534421,
   "donate_url": "",
   "error": false,
-  "filehash": "36dece0b772029e3462ed33b1b4bf841",
-  "filename": "EvolutionX_4.20.2_star2lte-10.0-20200502-0658-OFFICIAL.zip",
+  "filehash": "70e990deb738a03d9b4fd834ad8cc93a",
+  "filename": "EvolutionX_4.20.2_star2lte-10.0-20200503-1934-OFFICIAL.zip",
   "forum_url": "",
-  "id": "e24d1d084d6ebbd3ab0fd69113fb7d56fa0df0a6c2985304a94aef3afec8b6ba",
+  "id": "19db8dfc963eb5bfc872e9ae44afe00d7d6e2dd8251158b3847f1965cbed6b9a",
   "maintainer": "Robert Balmbra",
   "maintainer_url": "https://forum.xda-developers.com/member.php?u=4834466",
   "news_url": "https://t.me/EvolutionXOfficial",
-  "size": 1274103638,
+  "size": 1273925125,
   "telegram_username": "robbalmbra",
-  "url": "https://sourceforge.net/projects/evo9810ota/files/devices/star2lte/02-05-20/EvolutionX_4.20.2_star2lte-10.0-20200502-0658-OFFICIAL.zip/download",
+  "url": "https://sourceforge.net/projects/evo9810ota/files/devices/star2lte/03-05-20/EvolutionX_4.20.2_star2lte-10.0-20200503-1934-OFFICIAL.zip/download",
   "version": "Ten",
   "website_url": "https://evolution-x.org"
 }
