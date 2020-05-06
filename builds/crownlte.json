@@ -1,17 +1,17 @@
 {
-  "datetime": 1588688467,
+  "datetime": 1588748790,
   "donate_url": "",
   "error": false,
-  "filehash": "2fd037ad4b400213a8d42d14e2ab81e8",
-  "filename": "EvolutionX_4.3_crownlte-10.0-20200505-1421-OFFICIAL.zip",
+  "filehash": "0d206a19b37265b96d33996bd9e7c057",
+  "filename": "EvolutionX_4.3_crownlte-10.0-20200506-0706-OFFICIAL.zip",
   "forum_url": "",
-  "id": "999dc7e9477c14bf59866020acd23d7f4dc1c52bed0d2d35ea56fba231ad0c20",
+  "id": "c651cf6cbf9c7e1bcb3624c7306c5660c5f940e139bdae0428b176811ff0985f",
   "maintainer": "Robert Balmbra",
   "maintainer_url": "https://forum.xda-developers.com/member.php?u=4834466",
   "news_url": "https://t.me/EvolutionXOfficial",
-  "size": 1273828841,
+  "size": 1273963807,
   "telegram_username": "robbalmbra",
-  "url": "https://sourceforge.net/projects/evo9810ota/files/devices/crownlte/06-05-20/EvolutionX_4.3_crownlte-10.0-20200505-1421-OFFICIAL.zip/download",
+  "url": "https://sourceforge.net/projects/evo9810ota/files/devices/crownlte/06-05-20/EvolutionX_4.3_crownlte-10.0-20200506-0706-OFFICIAL.zip/download",
   "version": "Ten",
   "website_url": "https://evolution-x.org"
 }
